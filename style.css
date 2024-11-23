@@ -17,7 +17,7 @@ body{
     justify-content: center;
     align-items: center;
     position: relative;
-    margin: 300px auto;
+    margin: 150px auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     animation: shake 0.8s infinite ease-in-out; 
 }
